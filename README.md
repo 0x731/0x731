@@ -15,10 +15,10 @@ me = Develpoer()
 ```
 ##   📱 Contact 
 [![Instagram Badge](https://img.shields.io/badge/-Pwned.cpp-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/Pwned.cpp/)](https://instagram.com/Pwned.cpp)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/7v2p_)
+[![Twitter](https://img.shields.io/badge/0xE67-1DA1F2.svg?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/0xE67)
 ##  💻 OS  
 ![IOS](https://img.shields.io/badge/14.4-000000?style=flat-square&logo=ios&logoColor=white)
-![WIN](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![WIN](https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ##  💻 Workspace Spec 
 ![cpu](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=flat-square&logo=intel&logoColor=white)
