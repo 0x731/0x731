@@ -13,18 +13,22 @@ class Develpoer:
 
 me = Develpoer()
 ```
+##   📱 Contact 
 [![Instagram Badge](https://img.shields.io/badge/-Pwned.cpp-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/Pwned.cpp/)](https://instagram.com/Pwned.cpp)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/7v2p_)
-## OS 
+##  💻 OS  
 ![IOS](https://img.shields.io/badge/14.4-000000?style=flat-square&logo=ios&logoColor=white)
 ![WIN](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-
-### Languages
+##  💻 Workspace Spec 
+![cpu](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=flat-square&logo=intel&logoColor=white)
+![gpu](https://img.shields.io/badge/NVIDIA-RTX2060Super-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ver](https://img.shields.io/badge/Windows-20H2-0078D6?style=flat-square&logo=windows&logoColor=white)
+##  🚀  Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -34,8 +38,9 @@ me = Develpoer()
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![.net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
+![shellscript](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### Technologies
+### ⚡ Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -46,7 +51,7 @@ me = Develpoer()
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-### Cybersecurity
+### 💻 Cybersecurity
 ![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)
 ![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)
 ![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)
