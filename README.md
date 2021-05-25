@@ -1,6 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/Pwned-h/Pwned-h/main/wave.gif" width="30px">
 
 [![Instagram Badge](https://img.shields.io/badge/-Pwned.cpp-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/Pwned.cpp/)](https://instagram.com/Pwned.cpp)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/7v2p_)
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
