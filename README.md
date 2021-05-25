@@ -15,6 +15,11 @@ me = Develpoer()
 ```
 [![Instagram Badge](https://img.shields.io/badge/-Pwned.cpp-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/Pwned.cpp/)](https://instagram.com/Pwned.cpp)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/7v2p_)
+## OS 
+![IOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![WIN](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -25,6 +30,11 @@ me = Develpoer()
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![php](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![.net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
+
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
