@@ -19,11 +19,16 @@ me = Develpoer()
 ##  💻 OS  
 ![IOS](https://img.shields.io/badge/14.4-000000?style=flat-square&logo=ios&logoColor=white)
 ![WIN](https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ##  💻 Workspace Spec 
 ![cpu](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![gpu](https://img.shields.io/badge/NVIDIA-RTX2060Super-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![ver](https://img.shields.io/badge/Windows-20H2-0078D6?style=flat-square&logo=windows&logoColor=white)
+## 👩‍💻 IDE
+![vsc](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
+![vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![ph](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)
+
 ##  🚀  Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
