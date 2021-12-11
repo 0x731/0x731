@@ -22,7 +22,7 @@ Pwned@pwn:~$ cat learning.txt
 "I love learning a lot of things! Knowledge is power!!"
 ```
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/lelouch-chess.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/Pwned-h/Pwned-h/main/QDC74Yp.gif">
 
 ### What am I learning next?
 * ⭐ Digital Forensics
@@ -38,7 +38,7 @@ Pwned@pwn:~$ cat learning.txt
 Pwned@pwn:~$ cat hobbies.txt
 "Having an endless list of hobbies is the key to unlock your potential!"
 ```
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/lelouch-wink.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/Pwned-h/Pwned-h/main/1531-petting-the-catgirl.gif">
 
 ### Hobbies
 * 🎮 Playing Video Games 
@@ -56,7 +56,7 @@ Pwned@pwn:~$ cat introduction.txt
 ``` 
 I am just a regular person who came from the creative community now an Pro Hacker on Hack the Box. 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/lelouch-zoom.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/Pwned-h/Pwned-h/main/6459-purple-to-blue-snowy-mountains-w-girl.gif">
 
 
 ### Profiles
@@ -70,10 +70,10 @@ I am just a regular person who came from the creative community now an Pro Hacke
 Pwned@pwn:~$ cat languages.txt
 "I do know a lot of languages; who doesn't! JK Im Skid"
 ```
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/lelouch-rule.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/Pwned-h/Pwned-h/main/6789-sunset-waves.gif">
 
 ### Languages
-* 🚩 Javascript and Frameworks
+* 🚩 Javascript
 * 🚩 Python
 * 🚩 C#
 * 🚩 Bash
