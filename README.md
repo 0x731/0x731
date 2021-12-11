@@ -12,7 +12,7 @@ Pwned@pwn:~$ whoami
 
 I am Pwned (Tokyoo) a 19 year old whom studies CyberSecurity.
 
-![image](https://user-images.githubusercontent.com/63207324/135754304-3ee4dd9c-7336-45d9-90f7-3676cb7848f5.png)
+![image]()
 
 
 
