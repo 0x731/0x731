@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/0x731/0x731/main/assets/logo.png" alt="logo.png" width="200" /> 
+<img align="left" src="https://raw.githubusercontent.com/0x731/0x731/main/logo.png" alt="logo.png" width="200" /> 
 
 ```csharp
 0x731@github
