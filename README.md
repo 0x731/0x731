@@ -14,7 +14,7 @@
       GPU  :  RTX 2060 Super
     Alias  :  cs/checksum
 Languages  :  C#, C++, PHP, Python, JavaScript
-  Discord  :  909128278839803994
+  Discord  :  831345879754997790
 ```
 
 <p align="left">
